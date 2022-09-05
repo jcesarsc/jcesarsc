@@ -1,7 +1,7 @@
 ### Olá, bom dia, boa tarde, boa noite 👋
 
 Bem vindo à minha página pessoal do Github.
-Sou desenvolvedor de software por mais de 15 anos.
+Sou desenvolvedor de software há mais de 20 anos.
 Comecei com o famoso Clipper e hoje desenvolvo para web.
 Sempre em busca de conhecimento na área a fim de me atualizar e assim trazer o que há de mais atual a favor da população.
 
