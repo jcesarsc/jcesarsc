@@ -3,7 +3,7 @@
 Bem vindo à minha página pessoal do Github.
 Sou desenvolvedor de software há mais de 20 anos.
 Comecei com o famoso Clipper e hoje desenvolvo para web.
-Sempre em busca de conhecimento na área a fim de me atualizar e assim trazer o que há de mais atual a favor da população.
+Sempre em busca de conhecimento a fim de me manter atualizado.
 
 ⭐
 
